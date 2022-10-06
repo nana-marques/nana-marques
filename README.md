@@ -9,7 +9,7 @@ Majoring in Computer Science and currently learning Javascript/React 👾
 
 ![Ana Marques' GitHub stats](https://github-readme-stats.vercel.app/api?username=nana-marques&hide=stars&show_icons=true&theme=dracula)
 
-### Tecnologies 💻
+### Technologies 💻
 
 <div>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

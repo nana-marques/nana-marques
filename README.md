@@ -1,4 +1,4 @@
-### Hello! 😺
+### Hello! 👋
 My name is Ana, I am 19 years old and aiming to be a fullstack developer. <br />
 Majoring in Computer Science and currently learning Javascript/React 👾
 
